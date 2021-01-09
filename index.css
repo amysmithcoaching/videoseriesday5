@@ -1,0 +1,38 @@
+a {
+    color: black
+}
+
+.header {
+    background-color:#456A87;
+    color: white;
+    font-size: 2rem
+}
+
+.bring {
+    font-weight: bold;
+}
+.head {
+    font-size: 2rem;
+    color: 	#606060
+}
+
+.amy {
+    max-width: 20%;
+    height: auto;
+}
+
+.para {
+    font-size: 1.5rem;
+    color: #606060;
+}
+
+.amy-about {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #606060
+}
+
+.blue {
+    background-color: #456A87;
+    border-color:#456A87 ;
+}
